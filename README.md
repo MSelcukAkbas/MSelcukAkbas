@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selcuk</h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **C#** 
 
 - 📫 How to reach me **akbasselcuk32@gmail.com**
 

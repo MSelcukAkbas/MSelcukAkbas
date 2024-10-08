@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **akbasselcuk32@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mustafa-selcuk-akbaş](www.linkedin.com/in/mustafa-selcuk-akbas)
+- 📄 Know about my experiences [www.linkedin.com/in/mustafa-selcuk-akbaş](https://www.linkedin.com/in/mustafa-selcuk-akbas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

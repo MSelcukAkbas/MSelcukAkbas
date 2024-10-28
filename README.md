@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selcuk</h1>
 
 - 🌱 I’m currently learning **Python** and **C#** 
-- I am passionate about developing projects across diverse software domains, including image processing, where I analyze and manipulate visual data; data analysis, utilizing tools for transforming complex datasets into actionable insights; system optimization, focused on enhancing performance in Windows environments; prompt engineering, improving interactions with AI models; and web scraping, creating tools for automated data extraction from online sources. My goal is to enhance user experience and drive efficiency through innovative solutions.
+- ⚡ I'm passionate about developing projects across diverse software domains, including image processing, where I analyze and manipulate visual data; data analysis, utilizing tools for transforming complex datasets into actionable insights; system optimization, focused on enhancing performance in Windows environments; prompt engineering, improving interactions with AI models; and web scraping, creating tools for automated data extraction from online sources. My goal is to enhance user experience and drive efficiency through innovative solutions.
 
 - 📫 How to reach me [akbasselcuk32@gmail.com](mailto:akbasselcuk32@gmail.com)
 

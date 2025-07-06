@@ -31,7 +31,7 @@ Bilgisayar programcılığı mezunu, yazılımın farklı alanlarında—görsel
 | Proje Adı         | Açıklama                                                      | İncelemek için                                     |
 |-------------------|---------------------------------------------------------------|------------------------------------------|
 | **TechMate AI**   | AI destekli ürün öneri platformu (Python, Node.js, Docker).   | [TechMate AI Web sitesi](https://techmate-ai.com/)     |
-| **EVTxToCSV**     | Windows Olay Günlüklerini CSV’e dönüştüren Python kütüphanesi.| [github.com/MSelcukAkbas/TechMate-AI]([https://github.com/MSelcukAkbas/EVTX2CSV) |
+| **EVTxToCSV**     | Windows Olay Günlüklerini CSV’e dönüştüren Python kütüphanesi.| [github.com/MSelcukAkbas/TechMate-AI](https://github.com/MSelcukAkbas/EVTX2CSV) |
 
 > **Daha fazlası için**: [Tüm projelerim](https://github.com/MSelcukAkbas?tab=repositories)
 

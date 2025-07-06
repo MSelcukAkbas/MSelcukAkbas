@@ -1,16 +1,44 @@
-<h1 align="center">Hi 👋, I'm Selcuk</h1>
-
-- 🌱 I’m currently learning **Python** and **C#** 
-- ⚡ I'm passionate about developing projects across diverse software domains, including image processing, where I analyze and manipulate visual data; data analysis, utilizing tools for transforming complex datasets into actionable insights; system optimization, focused on enhancing performance in Windows environments; prompt engineering, improving interactions with AI models; and web scraping, creating tools for automated data extraction from online sources. My goal is to enhance user experience and drive efficiency through innovative solutions.
-
-- 📫 How to reach me [akbasselcuk32@gmail.com](mailto:akbasselcuk32@gmail.com)
-
-- 📄 Know about my experiences [www.linkedin.com/in/mustafa-selcuk-akbaş](https://www.linkedin.com/in/mustafa-selcuk-akbas/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa selcuk akbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa selcuk akbas" height="30" width="40" /></a>
+<h1 align="center">Merhaba 👋, Ben Selçuk</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-selcuk-akbas/"><img src="https://img.shields.io/badge/LinkedIn-Selçuk%20Akbaş-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:akbasselcuk32@gmail.com"><img src="https://img.shields.io/badge/Email-akbasselcuk32@gmail.com-red?logo=gmail" alt="E-posta" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## ⚡ Hakkımda
+Bilgisayar programcılığı mezunu, yazılımın farklı alanlarında—görsel veri işleme, veri analizi, sistem optimizasyonu (özellikle Windows), prompt mühendisliği ve web kazıma—projeler geliştirmeye tutkuyla bağlı bir geliştiriciyim. Amacım; kullanıcı deneyimini iyileştiren, verimliliği artıran yenilikçi çözümler üretmektir.
+
+---
+
+## 🛠️ Teknolojiler & Araçlar
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" height="25" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="25" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="25" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="25" />
+</p>
+
+---
+
+## 🚀 Projeler
+
+| Proje Adı         | Açıklama                                                      | İncelemek için                                     |
+|-------------------|---------------------------------------------------------------|------------------------------------------|
+| **TechMate AI**   | AI destekli ürün öneri platformu (Python, Node.js, Docker).   | [TechMate AI Web sitesi](https://techmate-ai.com/)     |
+| **EVTxToCSV**     | Windows Olay Günlüklerini CSV’e dönüştüren Python kütüphanesi.| [github.com/MSelcukAkbas/TechMate-AI](https://github.com/MSelcukAkbas/TechMate-AI) |
+
+> **Daha fazlası için**: [Tüm projelerim](https://github.com/MSelcukAkbas?tab=repositories)
+
+---
+
+## 📫 İletişim
+
+- 📧 **E-posta:** [akbasselcuk32@gmail.com](mailto:akbasselcuk32@gmail.com)  
+- 💼 **LinkedIn:** [mustafa-selcuk-akbaş](https://www.linkedin.com/in/mustafa-selcuk-akbas/)  
+- 🐙 **GitHub:** [MSelcukAkbas](https://github.com/MSelcukAkbas)
